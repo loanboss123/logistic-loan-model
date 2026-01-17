@@ -20,6 +20,10 @@ Kaggle Loan Approval Dataset.
 - main.py → single-command execution
 - models/ → trained model artifacts
 
+##Results
+-Accuracy: ~92%
+-Model evaluated using hold-out test set
+
 ## How to Run
 ```bash
 conda env create -f environment.yml
